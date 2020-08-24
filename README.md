@@ -1,4 +1,4 @@
-# Adobe Discord RPC Program Core
+# Adobe Discord RPC Program Releases
 
 [![Title Image](https://adobe-discord-rpc.github.io/Adobe-Discord-RPC-Image/images/cover.png)](https://github.com/Adobe-Discord-RPC)
 
